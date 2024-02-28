@@ -1,3 +1,3 @@
 # portfolio
 
-# [CS50x Final Project](https://github.com/me50/j-m-github)
+# [CS50x Final Project](https://github.com/j-m-github/CS50x-final-project)
