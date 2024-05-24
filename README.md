@@ -8,7 +8,7 @@ I developed a full stack web application called FOOD utilizing Flask, Python, SQ
 
 # Financial Valuation and Modeling
 
-I created a valuation model to value and visualize a buffered jump security, utilizing Excel and Visual Basic for Applications.
+Utilizing Excel and Visual Basic for Applications, I created a valuation model to value and visualize a buffered jump security.
 
 ![alt text](https://raw.githubusercontent.com/j-m-github/Jacob-Mitchell-Portfolio/main/Valuation%20Summary.jpg "Valuation Summary")
 
