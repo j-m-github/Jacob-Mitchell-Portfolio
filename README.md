@@ -6,6 +6,14 @@ I developed a full stack web application called FOOD utilizing Flask, Python, SQ
 
 ![alt text](https://raw.githubusercontent.com/j-m-github/Jacob-Mitchell-Portfolio/main/FOOD.jpg "FOOD snapshot")
 
+# Financial Valuation and Modeling
+
+I created a valuation model to value and visualize a buffered jump security, utilizing Excel and Visual Basic for Applications.
+
+![alt text](https://raw.githubusercontent.com/j-m-github/Jacob-Mitchell-Portfolio/main/Valuation%20Summary.jpg "Valuation Summary")
+
+![alt text](https://raw.githubusercontent.com/j-m-github/Jacob-Mitchell-Portfolio/main/Binomial%20Model.jpg "Binomial Model")
+
 # [Recursive Functions in Python and C](https://github.com/j-m-github/Recursion-Fibonacci)
 
 I wrote fibonacci.c in C while taking CS50x to wrap my head around recursive functions. I was familiar with the Fibonacci sequence and realized it would be a straightforward concept in which to utilize recursion. I rewrote the program for Python as well.
